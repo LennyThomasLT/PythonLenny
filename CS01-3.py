@@ -1,2 +1,2 @@
-Name = input("Name?")
-print(Name)
+BD = int(input("Type your Birthday? "))
+print("Your birthday is = ",BD)
