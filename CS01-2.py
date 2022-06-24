@@ -1,1 +1,2 @@
-print("bossy ka yee chai")
+Name = input("Name?")
+print(Name)
